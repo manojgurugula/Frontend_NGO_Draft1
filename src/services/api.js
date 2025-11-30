@@ -3,7 +3,7 @@ import axios from 'axios';
 // ----------------------------------------------------------------------
 // MODIFIED LINE: Use the live Render backend URL
 // ----------------------------------------------------------------------
-const API_BASE_URL = 'https://backend-ngo-draft1.onrender.com/api';
+const API_BASE_URL = 'https://prakruthi-backend-hgfsbbefc2dehffv.southindia-01.azurewebsites.net/api';
 
 // Create axios instance with default config
 const api = axios.create({
